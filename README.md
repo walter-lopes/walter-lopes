@@ -1,16 +1,19 @@
-### Hi there 👋
+### Aloha 👋, Here is Walter Cardoso, but you can me call as Guga.
 
-<!--
-**walter-lopes/walter-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 I’m currently working on @neon and my own company @remotito
+- 🌱 I’m currently learning python deeply and frequently reviewing c#.
+- ⚙️ I'm maintaning [[Aloha](https://github.com/walter-lopes/Aloha) building block project.
+- 👯 I’m looking to collaborate on python projects.
+- 🤔 I’m looking for help newers programmer to achieve their goals.
 -->
+
+## 💬 For more about me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-cardoso-aab682a8/)](https://www.linkedin.com/in/walter-cardoso-aab682a8/)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/walter-lopes/count.svg" />
+</p>
