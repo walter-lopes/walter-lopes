@@ -2,7 +2,7 @@
 
 Software Engineer
 
-- 👨‍💻 I’m currently working on @neon and my own company @remotito
+- 👨‍💻 I’m currently working on @mercedobairro 
 - 🌱 I’m currently learning python deeply and frequently reviewing c#.
 - ⚙️ I'm maintaning [Aloha](https://github.com/walter-lopes/Aloha) building block project.
 - 👯 I’m looking to collaborate on python projects.
