@@ -1,4 +1,4 @@
-### Aloha 👋, Here is Walter Cardoso, but you can me call Guga.
+### Aloha 👋, Here is Walter Cardoso, but you can call me Guga.
 
 Software Engineer
 
